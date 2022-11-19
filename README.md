@@ -23,7 +23,7 @@ It allows you to create honeypot servers to capture pings from attackers and kno
 
 **Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
 
-I was receiving an empty JSON file.
+I was receiving an empty JSON file. I dont know why the attacks were showing up on the map but only one attack shows up in the attack tab. The data exported were always empty as well.
 
 *Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
 
