@@ -10,7 +10,7 @@
 
 I used GCP to deploy the MHN-Admin
 
-<img src="mhn-admin.gif">
+<img src="admin.gif">
 
 ### Dionaea Honeypot Deployment (Required)
 
