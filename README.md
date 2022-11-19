@@ -17,7 +17,7 @@ I used GCP to deploy the MHN-Admin
 **Summary:** Briefly in your own words, what does dionaea do?
 
 It allows you to create honeypot servers to capture pings from attackers and know where they are coming from.
-<img src="dionaea-honeypot.gif">
+<img src="honeypot.gif">
 
 ### Database Backup (Required) 
 
